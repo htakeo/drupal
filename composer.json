@@ -8,7 +8,8 @@
     "cweagans/composer-patches": "^1.6.4",
     "oomphinc/composer-installers-extender": "^1.1",
     "wikimedia/composer-merge-plugin": "^1.4",
-    "drupal/commerce": "^2.4"
+    "drupal/commerce": "^2.4",
+    "drupal/imagemagick": "^2.4"
   },
   "repositories": {
     "drupal": {

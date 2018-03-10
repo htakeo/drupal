@@ -6,3 +6,4 @@ docroot/themes/contrib
 docroot/profiles/contrib
 docroot/libraries
 docker
+# docroot/sites/default/files
